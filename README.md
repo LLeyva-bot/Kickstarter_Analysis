@@ -11,4 +11,4 @@ This graph shows theater is a popular and successful type of campaign overall.
 ![SubCategory_Outcomes](https://github.com/LLeyva-bot/Kickstarter_Analysis/blob/main/SubCategory_Outcomes.png)
 This graph shows plays is a successful type of campaign overall.
 
-- A kisckstarter campaign for a play will be most successful when it is launched in the month of May with a goal less than $4,000.
+- A kickstarter campaign for a play will be most successful when it is launched in the month of May with a goal less than $4,000.
